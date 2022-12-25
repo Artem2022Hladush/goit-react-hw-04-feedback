@@ -1,5 +1,8 @@
 .button{
-	width: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 130px;
 	height: 70px;
 	background-color: indigo;
 	border: 5px solid rgb(127, 165, 255);
